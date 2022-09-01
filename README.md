@@ -1,12 +1,12 @@
 # Prediction for Loan Charge-Off
 
-Project Description
+* Project Description
 
 For this project, a subset of LendingClud dataset from Kaggle will be used.
 
 LendingClub is a US peer-to-peer lending company, headquartered in San Francisco, California. It was the first peer-to-peer lender to register its offerings as securities with the Securities and Exchange Commission (SEC), and to offer loan trading on a secondary market. LendingClub is the world's largest peer-to-peer lending platform.
 
-Our Goal
+* Our Goal
 
 Given historical data on loans given out with information on whether or not the borrower defaulted (charge-off), we will build machine learning models that can predict whether or not a borrower will pay back his or her loan. This way in the future when we get new potential customers we can assess whether they are likely to pay back their loans. The "loan_status" column, which contains our label, will later be converted into the target variable 'charge_off' for subsequent machine learning stage.
 

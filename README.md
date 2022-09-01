@@ -19,3 +19,7 @@ For this project, we will build several machine learning models using different 
 	v. Random Forest (ensemble-bagging)
 	vi. Neural Network (optimization-based)
 For performance evaluation of models above, we will compare their area under curve (AUC) of receiver operating characteristic (ROC) curves, to see if any significant performance differences among different models. At the end of this notebook, a conclusion for this project will be presented.
+
+The following documents are provided in this repository:
+  1. Prediction for Loan Charge Off.ipynb: Notebook for Python codes of the project
+  2. lending_club_loan_project_data.rar: Dataset for the project

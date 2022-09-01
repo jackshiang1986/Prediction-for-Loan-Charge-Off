@@ -19,6 +19,7 @@ For the machine learning, we will use 70% of the dataset for training and 30% of
 *	Extreme Gradient Boosting (XGBoost) Classifier (ensemble-boosting)
 *	Random Forest (ensemble-bagging)
 *	Neural Network (optimization-based)
+
 For performance evaluation of models above, we will compare their area under curve (AUC) of receiver operating characteristic (ROC) curves, to see if any significant performance differences among different models. At the end of the project notebook, a conclusion for this project will be presented.
 
 The following documents are provided in this repository:

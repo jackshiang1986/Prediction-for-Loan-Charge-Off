@@ -19,7 +19,7 @@ The following are the objectives of the project:
 ## Project Outline
 At the beginning of the project, the dataset was first imported into the notebook (Prediction for Loan Charge Off.ipynb) and its structure and data types were checked. There were 396,030 rows and 27 columns for this dataset.
 
-The next thing to check was whether any missing values in the dataset. For the dataset of this project, there were some missing values. Several techniques could be used to deal with these missing values, such as dropping those rows with missing values (not recommended if large number of rows), or imputing values into those missing fields based on other fields from the same dataset. For this project these 2 methods were used when dealing with the missing values.
+The next thing to check was whether any missing values in the dataset. For the dataset of this project, there were some missing values. Several techniques could be used to deal with these missing values, such as dropping those rows with missing values (not recommended if too many rows), or imputing values into those missing fields based on other fields from the same dataset. For this project these 2 methods were used when dealing with the missing values.
 
 After the missing values of the dataset were handled, the next step was to perform the exploratory data analysis (EDA). The distribution of each variable and how each independent variable related to the dependent variable were checked. At the end of the EDA, several key observations could be drawn. In addition to the distributions of variables and their relationships with the dependent variable, any outliers in the dataset could also be found from the EDA. In this project, some thresholds were set for removing outliers.
 
